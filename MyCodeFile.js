@@ -1,4 +1,5 @@
 a=3
 b=4
-c=a+b
+x=5
+c=a+b+x
 alert(c)
